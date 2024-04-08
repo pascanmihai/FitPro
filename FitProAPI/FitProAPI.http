@@ -1,0 +1,6 @@
+@FitProAPI_HostAddress = http://localhost:5181
+
+GET {{FitProAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
